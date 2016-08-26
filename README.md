@@ -1,2 +1,9 @@
 # project-ideas
-Running list of all project ideas - pick one and run with it!
+
+Browse current ideas
+
+Submit your idea
+
+Click on the issues tab to suggest and discuss new project ideas.
+
+Our template is inspired by Sketch City, which was inspired by Open Austin.
