@@ -1,6 +1,8 @@
 
 <a href="https://github.com/TechForJustice/project-ideas/issues">Browse current ideas</a>
+
 <a href="https://github.com/TechForJustice/project-ideas/wiki/Legal-Justice-Hackathon-Wiki">Browse Hackathon Problem Set</a>
+
 <a href="https://github.com/TechForJustice/project-ideas/issues/new">Submit your idea</a>
 
 Click on the issues tab to suggest and discuss new project ideas.
