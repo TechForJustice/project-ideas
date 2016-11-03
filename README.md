@@ -6,6 +6,8 @@
 
 <a href="https://github.com/TechForJustice/Datasets-API-Tech-Resources">Data sets - APIs - Current Justice Tech - Resources</a> 
 
+<a href="https://github.com/TechForJustice/project-ideas/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>
+
 Click on the issues tab to suggest and discuss new project ideas.
 
 <b>How To Propose or Discuss Project Ideas</b>
