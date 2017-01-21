@@ -1,3 +1,5 @@
+<a href="https://github.com/TechForJustice/project-ideas/wiki/Tech-For-Justice-Hackathon--Veterans-Problem-Set">Tech For Justice Hackathon+ Veterans Problem Set</a>
+
 <a href="https://github.com/TechForJustice/project-ideas/issues">Browse current ideas</a>
 
 <a href="https://github.com/TechForJustice/project-ideas/issues/new">Submit your idea</a>
